@@ -1,0 +1,138 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "Bumblebee.Aggregate.qbcode/1.0.0": {
+        "dependencies": {
+          "BeetleX.Bumblebee": "1.3.5.6",
+          "BeetleX.Http.Clients": "1.2.4.6"
+        },
+        "runtime": {
+          "Bumblebee.Aggregate.qbcode.dll": {}
+        }
+      },
+      "BeetleX/1.5.0.21": {
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.dll": {
+            "assemblyVersion": "1.5.0.21",
+            "fileVersion": "1.5.0.21"
+          }
+        }
+      },
+      "BeetleX.Bumblebee/1.3.5.6": {
+        "dependencies": {
+          "BeetleX.FastHttpApi": "1.8.1"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Bumblebee.dll": {
+            "assemblyVersion": "1.3.5.6",
+            "fileVersion": "1.3.5.6"
+          }
+        }
+      },
+      "BeetleX.FastHttpApi/1.8.1": {
+        "dependencies": {
+          "BeetleX": "1.5.0.21",
+          "Newtonsoft.Json": "12.0.2"
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.FastHttpApi.dll": {
+            "assemblyVersion": "1.8.1.0",
+            "fileVersion": "1.8.1.0"
+          }
+        }
+      },
+      "BeetleX.Http.Clients/1.2.4.6": {
+        "dependencies": {
+          "BeetleX": "1.5.0.21",
+          "BeetleX.Tasks": "0.7.3",
+          "Newtonsoft.Json": "12.0.2",
+          "System.Reflection.DispatchProxy": "4.5.1"
+        },
+        "runtime": {
+          "lib/netstandard2.0/BeetleX.Http.Clients.dll": {
+            "assemblyVersion": "1.2.4.6",
+            "fileVersion": "1.2.4.6"
+          }
+        }
+      },
+      "BeetleX.Tasks/0.7.3": {
+        "runtime": {
+          "lib/netstandard2.0/BeetleX.Tasks.dll": {
+            "assemblyVersion": "0.7.3.0",
+            "fileVersion": "0.7.3.0"
+          }
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "12.0.0.0",
+            "fileVersion": "12.0.2.23222"
+          }
+        }
+      },
+      "System.Reflection.DispatchProxy/4.5.1": {}
+    }
+  },
+  "libraries": {
+    "Bumblebee.Aggregate.qbcode/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BeetleX/1.5.0.21": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-d63y0if6VMIoo6svYatLIdxx9C3DaNTPnvEZg/8/r4uWKW/FlDrT0PyPWM2y0njLaQqfExjwsFQGNKy7detzOw==",
+      "path": "beetlex/1.5.0.21",
+      "hashPath": "beetlex.1.5.0.21.nupkg.sha512"
+    },
+    "BeetleX.Bumblebee/1.3.5.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qLjh+v2H8t4AZgZ3jR0Nq1Q3Cvm5710/lsif52bGr/PxoGBvwidX3X42MCUrxQe1vpdolsZymo1rT2RU51wWRw==",
+      "path": "beetlex.bumblebee/1.3.5.6",
+      "hashPath": "beetlex.bumblebee.1.3.5.6.nupkg.sha512"
+    },
+    "BeetleX.FastHttpApi/1.8.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-24e1mZb1Xi2VMfXdFhCnOyvJTJgnXXxiSaC9MJmHe/rUgzbtPz/bJyprGDTk1IkRyLWLbCAMBUMsl3xUudrQ4g==",
+      "path": "beetlex.fasthttpapi/1.8.1",
+      "hashPath": "beetlex.fasthttpapi.1.8.1.nupkg.sha512"
+    },
+    "BeetleX.Http.Clients/1.2.4.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-j9cAw+upjTETLt3sP3Td+ovldXo6D/ZdWKf0Ph5RXXveNY3GALNYi7c5hznj9eyy7jpPN35WvJbtLZ0a4VRIbA==",
+      "path": "beetlex.http.clients/1.2.4.6",
+      "hashPath": "beetlex.http.clients.1.2.4.6.nupkg.sha512"
+    },
+    "BeetleX.Tasks/0.7.3": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-m59kP3b8i1xtyqoZpC/RG2t7Rcw2QpU/pAZP7aNh3dG+AHk1MSXrzYJNHK5DAxfeIFsHoG8ElNLErE1hilcAhQ==",
+      "path": "beetlex.tasks/0.7.3",
+      "hashPath": "beetlex.tasks.0.7.3.nupkg.sha512"
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "path": "newtonsoft.json/12.0.2",
+      "hashPath": "newtonsoft.json.12.0.2.nupkg.sha512"
+    },
+    "System.Reflection.DispatchProxy/4.5.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FsYDYPmR2coa1BCo9mquY5A1hy5RSQq7ZJH3qaMoy3lCTUMZvB4lEFqX1i4XQINVjda4e7p2PN1DHk8AV3wfXw==",
+      "path": "system.reflection.dispatchproxy/4.5.1",
+      "hashPath": "system.reflection.dispatchproxy.4.5.1.nupkg.sha512"
+    }
+  }
+}

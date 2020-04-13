@@ -1,0 +1,297 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "BeetleX/1.5.1.1": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp2.1/BeetleX.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.dll": {}
+        }
+      },
+      "BeetleX.Bumblebee/1.3.6.6": {
+        "type": "package",
+        "dependencies": {
+          "BeetleX.FastHttpApi": "1.8.1.9"
+        },
+        "compile": {
+          "lib/netcoreapp2.1/Bumblebee.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/Bumblebee.dll": {}
+        }
+      },
+      "BeetleX.FastHttpApi/1.8.1.9": {
+        "type": "package",
+        "dependencies": {
+          "BeetleX": "1.5.1.1",
+          "Newtonsoft.Json": "11.0.2"
+        },
+        "compile": {
+          "lib/netcoreapp2.1/BeetleX.FastHttpApi.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.1/BeetleX.FastHttpApi.dll": {}
+        }
+      },
+      "BeetleX.Http.Clients/1.2.4.6": {
+        "type": "package",
+        "dependencies": {
+          "BeetleX": "1.5.0.21",
+          "BeetleX.Tasks": "0.7.3",
+          "Newtonsoft.Json": "12.0.2",
+          "System.Reflection.DispatchProxy": "4.5.1"
+        },
+        "compile": {
+          "lib/netstandard2.0/BeetleX.Http.Clients.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BeetleX.Http.Clients.dll": {}
+        }
+      },
+      "BeetleX.Tasks/0.7.3": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/BeetleX.Tasks.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/BeetleX.Tasks.dll": {}
+        }
+      },
+      "Newtonsoft.Json/12.0.2": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {}
+        }
+      },
+      "System.Reflection.DispatchProxy/4.5.1": {
+        "type": "package",
+        "compile": {
+          "ref/netstandard2.0/System.Reflection.DispatchProxy.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp2.0/System.Reflection.DispatchProxy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BeetleX/1.5.1.1": {
+      "sha512": "mcmPqRLVTa7qqVFBI30TlEfmqRh31NHEPGppjXZ5aR1ZZthtJ4i6cS8WChwpZflH0tSaMZLSexD7qAqvk9NXrA==",
+      "type": "package",
+      "path": "beetlex/1.5.1.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "beetlex.1.5.1.1.nupkg.sha512",
+        "beetlex.nuspec",
+        "lib/netcoreapp2.1/BeetleX.dll",
+        "lib/netstandard2.0/BeetleX.dll"
+      ]
+    },
+    "BeetleX.Bumblebee/1.3.6.6": {
+      "sha512": "kv55t39lWA/tpvh4E6NuUmv1WSZbaSHp1RHqLQgaBugTXc/Lo6HOzTnJ0eSCGjFcTF4zcSj7ltZqxMkPzOSTNw==",
+      "type": "package",
+      "path": "beetlex.bumblebee/1.3.6.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "beetlex.bumblebee.1.3.6.6.nupkg.sha512",
+        "beetlex.bumblebee.nuspec",
+        "beetlex200.png",
+        "lib/netcoreapp2.1/Bumblebee.dll"
+      ]
+    },
+    "BeetleX.FastHttpApi/1.8.1.9": {
+      "sha512": "Wt8EbBxuBg+vMY7iKKKY2s7xd+vTymXBEgKjcWCmfWrEDmf4dlEzT/fONJ0XV8xx24+BYg6Y4wkeFmmECQb4Nw==",
+      "type": "package",
+      "path": "beetlex.fasthttpapi/1.8.1.9",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "beetlex.fasthttpapi.1.8.1.9.nupkg.sha512",
+        "beetlex.fasthttpapi.nuspec",
+        "lib/netcoreapp2.1/BeetleX.FastHttpApi.dll"
+      ]
+    },
+    "BeetleX.Http.Clients/1.2.4.6": {
+      "sha512": "j9cAw+upjTETLt3sP3Td+ovldXo6D/ZdWKf0Ph5RXXveNY3GALNYi7c5hznj9eyy7jpPN35WvJbtLZ0a4VRIbA==",
+      "type": "package",
+      "path": "beetlex.http.clients/1.2.4.6",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "beetlex.http.clients.1.2.4.6.nupkg.sha512",
+        "beetlex.http.clients.nuspec",
+        "lib/netstandard2.0/BeetleX.Http.Clients.dll"
+      ]
+    },
+    "BeetleX.Tasks/0.7.3": {
+      "sha512": "m59kP3b8i1xtyqoZpC/RG2t7Rcw2QpU/pAZP7aNh3dG+AHk1MSXrzYJNHK5DAxfeIFsHoG8ElNLErE1hilcAhQ==",
+      "type": "package",
+      "path": "beetlex.tasks/0.7.3",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "beetlex.tasks.0.7.3.nupkg.sha512",
+        "beetlex.tasks.nuspec",
+        "lib/netstandard2.0/BeetleX.Tasks.dll"
+      ]
+    },
+    "Newtonsoft.Json/12.0.2": {
+      "sha512": "rTK0s2EKlfHsQsH6Yx2smvcTCeyoDNgCW7FEYyV01drPlh2T243PR2DiDXqtC5N4GDm4Ma/lkxfW5a/4793vbA==",
+      "type": "package",
+      "path": "newtonsoft.json/12.0.2",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.md",
+        "lib/net20/Newtonsoft.Json.dll",
+        "lib/net20/Newtonsoft.Json.xml",
+        "lib/net35/Newtonsoft.Json.dll",
+        "lib/net35/Newtonsoft.Json.xml",
+        "lib/net40/Newtonsoft.Json.dll",
+        "lib/net40/Newtonsoft.Json.xml",
+        "lib/net45/Newtonsoft.Json.dll",
+        "lib/net45/Newtonsoft.Json.xml",
+        "lib/netstandard1.0/Newtonsoft.Json.dll",
+        "lib/netstandard1.0/Newtonsoft.Json.xml",
+        "lib/netstandard1.3/Newtonsoft.Json.dll",
+        "lib/netstandard1.3/Newtonsoft.Json.xml",
+        "lib/netstandard2.0/Newtonsoft.Json.dll",
+        "lib/netstandard2.0/Newtonsoft.Json.xml",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net40+sl5+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.dll",
+        "lib/portable-net45+win8+wp8+wpa81/Newtonsoft.Json.xml",
+        "newtonsoft.json.12.0.2.nupkg.sha512",
+        "newtonsoft.json.nuspec"
+      ]
+    },
+    "System.Reflection.DispatchProxy/4.5.1": {
+      "sha512": "FsYDYPmR2coa1BCo9mquY5A1hy5RSQq7ZJH3qaMoy3lCTUMZvB4lEFqX1i4XQINVjda4e7p2PN1DHk8AV3wfXw==",
+      "type": "package",
+      "path": "system.reflection.dispatchproxy/4.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "lib/MonoAndroid10/_._",
+        "lib/MonoTouch10/_._",
+        "lib/net461/System.Reflection.DispatchProxy.dll",
+        "lib/netcoreapp2.0/System.Reflection.DispatchProxy.dll",
+        "lib/netstandard1.3/System.Reflection.DispatchProxy.dll",
+        "lib/netstandard2.0/System.Reflection.DispatchProxy.dll",
+        "lib/xamarinios10/_._",
+        "lib/xamarinmac20/_._",
+        "lib/xamarintvos10/_._",
+        "lib/xamarinwatchos10/_._",
+        "ref/MonoAndroid10/_._",
+        "ref/MonoTouch10/_._",
+        "ref/netstandard1.3/System.Reflection.DispatchProxy.dll",
+        "ref/netstandard1.3/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/de/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/es/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/fr/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/it/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/ja/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/ko/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/ru/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/zh-hans/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard1.3/zh-hant/System.Reflection.DispatchProxy.xml",
+        "ref/netstandard2.0/System.Reflection.DispatchProxy.dll",
+        "ref/netstandard2.0/System.Reflection.DispatchProxy.xml",
+        "ref/uap10.0.16299/System.Reflection.DispatchProxy.dll",
+        "ref/uap10.0.16299/System.Reflection.DispatchProxy.xml",
+        "ref/xamarinios10/_._",
+        "ref/xamarinmac20/_._",
+        "ref/xamarintvos10/_._",
+        "ref/xamarinwatchos10/_._",
+        "runtimes/aot/lib/netcore50/System.Reflection.DispatchProxy.dll",
+        "runtimes/win-aot/lib/uap10.0.16299/System.Reflection.DispatchProxy.dll",
+        "runtimes/win/lib/uap10.0.16299/System.Reflection.DispatchProxy.dll",
+        "system.reflection.dispatchproxy.4.5.1.nupkg.sha512",
+        "system.reflection.dispatchproxy.nuspec",
+        "useSharedDesignerContext.txt",
+        "version.txt"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "BeetleX.Bumblebee >= 1.3.6.6",
+      "BeetleX.Http.Clients >= 1.2.4.6"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tryparse\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\绿色\\projects\\service.core30\\api.core\\Qbcode.Aggregate\\Qbcode.Aggregate.csproj",
+      "projectName": "Qbcode.Aggregate",
+      "projectPath": "C:\\绿色\\projects\\service.core30\\api.core\\Qbcode.Aggregate\\Qbcode.Aggregate.csproj",
+      "packagesPath": "C:\\Users\\tryparse\\.nuget\\packages\\",
+      "outputPath": "C:\\绿色\\projects\\service.core30\\api.core\\Qbcode.Aggregate\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tryparse\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "dependencies": {
+          "BeetleX.Bumblebee": {
+            "target": "Package",
+            "version": "[1.3.6.6, )"
+          },
+          "BeetleX.Http.Clients": {
+            "target": "Package",
+            "version": "[1.2.4.6, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.102\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

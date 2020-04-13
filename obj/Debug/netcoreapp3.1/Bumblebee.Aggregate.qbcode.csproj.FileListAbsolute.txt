@@ -1,0 +1,9 @@
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\bin\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.views.__system.aggregate.icon.png
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\bin\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.deps.json
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\bin\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.dll
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\bin\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.pdb
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\obj\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\obj\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\obj\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.dll
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\obj\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.pdb
+C:\绿色\projects\service.core30\api.core\qbcode.Bumblebee.Aggregate\obj\Debug\netcoreapp3.1\Bumblebee.Aggregate.qbcode.csprojAssemblyReference.cache

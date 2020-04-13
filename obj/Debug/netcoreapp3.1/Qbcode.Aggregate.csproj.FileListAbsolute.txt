@@ -1,0 +1,16 @@
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.deps.json
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.pdb
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.Request.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.pdb
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.deps.json
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\bin\Debug\netcoreapp3.1\Qbcode.Aggregate.pdb
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.csprojAssemblyReference.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.AssemblyInfoInputs.cache
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.AssemblyInfo.cs
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.dll
+C:\绿色\projects\service.core30\api.core\Qbcode.Aggregate\obj\Debug\netcoreapp3.1\Qbcode.Aggregate.pdb
